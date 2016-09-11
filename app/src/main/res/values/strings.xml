@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalcApp</string>
+    <string name="plus">＋</string>
+    <string name="minus">－</string>
+    <string name="kakeru">*</string>
+    <string name="waru">/</string>
+    <string name="num1">数値1</string>
+    <string name="num2">数値2</string>
+</resources>
